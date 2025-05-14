@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/joshmayerr-passport-mcp-badge.png)](https://mseep.ai/app/joshmayerr-passport-mcp)
+
 # PassportMCP
 
 PassportMCP (ppmcp) lets you build MCP servers for any given website with automatic browser auth syncing. Every website is fair game. It wraps FastMCP and automatically adds necessary auth headers and cookies from the browser to outbound requests. As long as you log in through the browser, it's ready to be used. Often easier than paying for developer APIs (ex: twitter/X), avoiding rate limits, waiting for approval, or great for sites that don't have one.
